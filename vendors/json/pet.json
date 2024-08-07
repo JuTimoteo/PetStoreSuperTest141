@@ -1,0 +1,18 @@
+{
+    "id": 777333301,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Sheik",
+    "photoUrls": [
+      "https://www.petz.com.br/blog//wp-content/uploads/2023/04/como-cuidar-de-um-cachorro-maltes-2.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vacinned"
+      }
+    ],
+    "status": "available"
+  }
